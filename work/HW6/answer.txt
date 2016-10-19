@@ -1,0 +1,7 @@
+1367917
+quick sort (optimized)
+heap sort
+insertion sort
+quick sort (simple)
+selection sort
+merge sort
